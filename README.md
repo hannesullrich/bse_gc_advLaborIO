@@ -103,7 +103,7 @@
 ---
 ## Session 2: Static discrete choice in IO
 
--   May 5, 13:30 - 16:30
+-   May 5, 14:15 - 17:15
 
 -   Instructor: Hannes Ullrich
 
@@ -140,7 +140,7 @@
 ---
 ## Session 3: Static discrete choice in IO
 
--   May 12, 14:00 - 17:00
+-   May 12, 14:15 - 17:15
 
 -   Instructor: Hannes Ullrich
 
@@ -167,7 +167,7 @@
 ---
 ## Session 4: Dynamic discrete choice in IO
 
--   May 19, 13:30 - 16:30
+-   May 19, 14:15 - 17:00
 
 -   Instructor: Hannes Ullrich
 
@@ -192,7 +192,7 @@
 ---
 ## Session 5: Dynamic discrete choice in IO
 
--   June 2, 13:30 - 16:30
+-   June 2, 14:15 - 17:00
 
 -   Instructor: Hannes Ullrich
 
