@@ -157,7 +157,7 @@
     "[Automobile Prices in Market Equilibrium](pre-class-readings/week2/BerryEtAl1995.pdf),\" *Econometrica* 63 (4),
     841-890.**
 
--   **Conlon, Christopher and Jeff Gortmaker (2020), “Best Practices for Differentiated Products Demand Estimation with pyblp,” *Rand Journal of Economics* 51(4), 1108-1161.**
+-   **Conlon, Christopher and Jeff Gortmaker (2020), “[Best Practices for Differentiated Products Demand Estimation with pyblp](pre-class-readings/week2/ConlonGortmaker2020_BestPracticesBLP.pdf),” *Rand Journal of Economics* 51(4), 1108-1161.**
 
 -   Nevo, Aviv (2000), "[A Practitioner's Guide to Estimation of
     Random-coefficients Logit Models of Demand](pre-class-readings/week3/Nevo2000.pdf),\" *Journal of Economics
