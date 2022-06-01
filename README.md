@@ -192,7 +192,7 @@
 ---
 ## Session 5: Dynamic discrete choice in IO
 
--   June 2, 14:15 - 17:00
+-   June 2, 14:15 - 16:45
 
 -   Instructor: Hannes Ullrich
 
@@ -222,7 +222,7 @@
 ---
 ## Session 6: Dynamic discrete choice in Labour I
 
--   June 9, 14:00 - 17:00
+-   June 9, 14:15 - 17:15
 
 -   Instructors: Peter Haan, Boryana Ilieva
 
@@ -245,7 +245,7 @@
 ---
 ## Session 7: Dynamic discrete choice in Labour II
 
--   June 16, 14:00 - 17:00
+-   June 16, 14:15 - 17:15
 
 -   Instructors: Peter Haan, Boryana Ilieva
 
@@ -266,7 +266,7 @@
 ---
 ## Session 8: Dynamic discrete choice in Labour III
 
--   June 23, 14:00 - 17:00
+-   June 23, 14:15 - 17:15
 
 -   Instructors: Peter Haan, Boryana Ilieva
 
@@ -287,7 +287,7 @@
 ---
 ## Session 9: Partial job search
 
--   June 30, 14:00 - 17:00 via zoom: https://us02web.zoom.us/j/89089275847
+-   June 30, 14:15 - 17:15
 
 -   !Change in location: DIW Berlin, room Anna J. Schwarz (5.2.010)
 
@@ -322,7 +322,7 @@
 ---
 ## Session 10: Equilibrium job search
 
--   July 7, 14:00 - 17:00 via zoom: https://us02web.zoom.us/j/89089275847
+-   July 7, 14:15 - 17:15
 
 -   Instructor: Luke Haywood
 
@@ -353,5 +353,5 @@
 ---
 ## Session 11: Final Exam
 
--   July 14, 14:00 - 17:00
+-   July 14, 14:15 - 17:15
 
