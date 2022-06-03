@@ -3,7 +3,7 @@ function [llf] = rustllfhm(b,Data)
 
 d=Data.d;xt=Data.xt;beta=Data.beta;
 dvec1=Data.dvec1;vec1=Data.vec1;vec0=Data.vec0;
-phat=Data.phat;x=Data.x;%eul=Data.eul;
+phat=Data.phat;x=Data.x;eul=Data.eul;
 
 % choice-specific flow utilities
 u1 = ufun(vec1,b,x); % 11 x 1
